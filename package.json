@@ -6,14 +6,12 @@
     "name": "Rida Sarwar Bilgrami",
     "email": "rida_rocks12@yahoo.com"
   },
-  "contributors": [
-  ],
+  "contributors": [],
   "homepage": "https://github.com/RidaRidss/react-native-jitsi-meet",
   "bugs": {
     "url": "https://github.com/Ridss/react-native-jitsi-meet/issues"
   },
-  "dependencies": {
-  },
+  "dependencies": {},
   "keywords": [
     "jitsi",
     "jitsi meet",
